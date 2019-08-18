@@ -1,5 +1,5 @@
-# cv-resume
-
+# John Larsson, CV
+Resumé Link -> https://jhelar.github.io/john-larsson-cv/
 ## Project setup
 ```
 npm install
