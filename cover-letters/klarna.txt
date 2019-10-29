@@ -1,0 +1,13 @@
+Hello!
+
+When I read the job description I thought this could be a perfect match to what I am searching for.
+I have been working with development for four years now with a multitude of different customers both from small municipals to big companies. Working with both website development and some stand alone webb applications, written in React with Redux.
+
+I am very driven and I am pulled towards challenges that gives me a feeling of being lost. And it might sound a bit strange but this drives me to complete the task, since failure does not really exist in my head.
+
+I am looking to switch jobs since my current workplace cannot offer jobs or the environment for javascript development. Currently the way that I have learnt the majority of javascript is from hobby projects and research that I do in my free time. 
+
+Klarna seems to be the match and a workplace that I would really like to hear more from! A company that animates the menu hamburger to an actual hamburger, has to be a company that I would enjoy working at!
+
+Cheers!
+John Larsson

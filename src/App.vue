@@ -112,6 +112,22 @@ With the user data gathered from the surveys a new payment function was develope
           ]
         },
         {
+          title: 'References',
+          icon: 'fas fa-user-tie',
+          rows: [
+            {
+              title: 'Kungliga biblioteket',
+              subTitle: 'Anders Hejl',
+              content: `<a href="mailto:anders.hejl@kb.se">anders.hejl@kb.se</a>`
+            },
+            {
+              title: 'HiQ Örebro',
+              subTitle: 'Anna Östh',
+              content: `<a href="mailto:anna.osth@hiq.se">anna.osth@hiq.se</a>`
+            },
+          ]
+        },
+        {
           title: 'Certifications',
           icon: 'fas fa-award',
           rows: [
@@ -129,7 +145,7 @@ With the user data gathered from the surveys a new payment function was develope
             {
               title: 'Bachelor: Computer Science',
               subTitle: 'Örebro Universitet - Örebro',
-              content: undefined
+              content: '85% Completed'
             },
             {
               title: 'Highschool: Nature Science',
