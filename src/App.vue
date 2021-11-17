@@ -241,6 +241,7 @@ body {
     background: var(--color-white);
     height: 100vh;
     overflow-y: hidden;
+    display: block;
   }
 }
 
