@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/john-larsson-cv/precache-manifest.3fbeb95c3f924961298ca5f023eae502.js"
+  "/john-larsson-cv/precache-manifest.148bd3eb75c03e83a5d9bbfab650e2f2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cv-resume"});
